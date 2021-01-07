@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/aditya-learns/MoonBot#readme",
   "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.2.1",
     "discord.js": "^12.5.1"
   }
 }
